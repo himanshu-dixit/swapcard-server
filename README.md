@@ -1,14 +1,8 @@
 
-## Available Scripts
+## Basic ServerLess React App with Hasura GraphQL Engine
 
-In the project directory, you can run:
 
-### `npm start`
-
-### `npm run build`
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+You can learn how to create the following app [Basic ServerLess React App with Hasura GraphQL Engine](https://medium.com/@himanshu.dixit/deploying-basic-serverless-react-app-with-hasura-graphql-engine-4d60228628de).
