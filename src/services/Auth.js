@@ -82,7 +82,7 @@ export default class Auth {
         this.expiresAt = 0;
 
         // Remove isLoggedIn flag from localStorage
-        localStorage.removeItem('isLoggedIn');
+        localStorage.clear();
 
         // navigate to the home route
         history.replace('/');
